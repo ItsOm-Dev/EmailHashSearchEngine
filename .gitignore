@@ -1,0 +1,8 @@
+# Ignore build and IDE files
+*.class
+*.jar
+*.log
+bin/
+build/
+.idea/
+*.iml
