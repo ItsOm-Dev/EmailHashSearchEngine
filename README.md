@@ -1,4 +1,11 @@
 # Email Hash Search Engine
+## Introduction
+
+This project is a **demo implementation** of a custom email storage and search engine using 2-digit character encoding and a multi-level dynamic hashing strategy. It aims to experiment with alternatives to traditional data structures like `HashMap` and B+ Trees for handling searchable datasets, specifically emails in this case.
+
+Currently, it is in the **early stage of development** and primarily serves educational and experimental purposes. The focus is on understanding how encoding and hashing can be customized for performance in specific use cases.
+
+Everyone is welcome to explore, use, fork, and contribute to this project. Feedback, feature suggestions, and pull requests are highly appreciated!
 
 This project implements a custom multi-level hash table combined with character-level 2-digit encoding for email addresses. It demonstrates an efficient search system alternative to B+ Trees in controlled scenarios.
 
